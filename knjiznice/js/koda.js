@@ -31,12 +31,14 @@ function getSessionId() {
  * @return ehrId generiranega pacienta
  */
 function generirajPodatke(stPacienta) {
-  ehrId = "";
+  
+  
+  
 
-  // TODO: Potrebno implementirati
 
   return ehrId;
 }
+
 
 
 // TODO: Tukaj implementirate funkcionalnost, ki jo podpira vaša aplikacija
